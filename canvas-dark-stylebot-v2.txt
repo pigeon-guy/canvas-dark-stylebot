@@ -1,0 +1,1600 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+div.ic-DashboardCard__header_content {
+  background-color: #434343;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+ color:whitesmoke;
+}
+/*below is the logo stuff.*/
+a.ic-app-header__logomark {
+  background-color: #434343;
+  background-image: url("https://imgur.com/5bWEKoX.png");
+}
+
+div.ic-DashboardCard__box__container {
+  background-color: #343434;
+}
+
+h1.ic-Dashboard-header__title {
+  background-color: #343434;
+}
+
+div.large.ic-Dashboard-header__layout {
+  background-color:#343434;
+}
+
+div.ic-Layout-contentMain {
+  background-color:#343434;
+  color:whitesmoke;
+}
+
+span.hidden-phone {
+  text-align: center;
+  color:whitesmoke
+}
+
+div.ic-app-header__main-navigation {
+  background-color: #434343;
+}
+
+a.ic-app-header__logomark {
+  background-color: #434343;
+}
+
+button.ic-app-header__menu-list-link.ic-app-header__menu-list-link--nav-toggle {
+  background-color: #34;
+}
+
+nav.ic-DashboardCard__action-container {
+background-color: #434343;
+  font-family: Roboto;
+  text-align: center;
+ color:whitesmoke;  
+}
+
+div.ic-DashboardCard__header-subtitle.ellipsis {
+  color:whitesmoke;
+}
+
+div.ic-DashboardCard__header-term.ellipsis {
+  color: whitesmoke;
+}
+
+div h3 span {
+  color: whitesmoke;
+}
+
+a.ic-app-header__menu-list-link {
+  background-color: #434343;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.ic-app-header__menu-list-link:hover {
+transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+button.ic-app-header__menu-list-link {
+  background-color: #434343;
+  color:whitesmoke;
+  text-transform: lowercase;transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+button.ic-app-header__menu-list-link:hover {
+  text-emphasis-color: #E80031;
+transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+div.ic-DashboardCard {
+  background-color: #434343;
+  text-align: center;
+  border-radius: 25px;
+}
+
+a.ic-DashboardCard__action.files {
+  text-align: center;
+}
+
+a.ic-DashboardCard__action.discussions {
+  text-align: center;
+}
+
+a.ic-DashboardCard__action.assignments {
+  text-align: center;
+}
+
+h2.todo-list-header {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;
+}
+
+div.ToDoSidebarItem__Info {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;
+}
+
+span.enRcg_bGBk.enRcg_doqw.enRcg_fNIu.enRcg_eQnG {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+span.enRcg_bGBk.enRcg_doqw.enRcg_fNIu.enRcg_eQnG:hover {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+li.fOyUs_bGBk.fOyUs_cuDs.ctrLD_bGBk.ctrLD_doqw.ctrLD_dnHs {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+li.fOyUs_bGBk.fOyUs_cuDs.ctrLD_bGBk.ctrLD_doqw.ctrLD_dnHs:hover {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.Button.button-sidebar-wide {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;
+  background-color: #434343;
+transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.Button.button-sidebar-wide:hover {
+  text-align: center;
+  font-family: Roboto;
+  color: whitesmoke;
+  text-transform: lowercase;
+  background-color: #434343;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+div.ic-app-nav-toggle-and-crumbs.no-print {
+  background-color:#343434 ;
+}
+
+div.ic-Layout-wrapper {
+  background-color: #343434;
+}
+
+a.home {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.home:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.home.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.announcements {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.announcements:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.announcements.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.assignments {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.assignments:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.assignments.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.discussions {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.discussions:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.discussions.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.grades {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.grades:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.grades.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+span.ellipsis {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+span.ellipsis:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+span.ellipsis.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.people {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.people:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.people.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.pages {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.pages:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.pages.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.files {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.files:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.files.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.syllabus {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.syllabus:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.syllabus.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.modules {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.modules:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.modules.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.collaborations {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.collaborations:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.collaborations.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.quizzes {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.quizzes:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.quizzes.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_437 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_437:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_437.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1092 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_1092:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1092.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1129 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_1129:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1129.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1953 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_1953:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_1953.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_4241 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_4241:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_4241.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_6409 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_6409:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_6409.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_8058 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_8058:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_8058.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_8134 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_8134:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_8134.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+}
+
+a.context_external_tool_8500 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a.context_external_tool_8500:hover {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a.context_external_tool_8500.active {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+} 
+div div h2 {
+  text-align: center;
+  color: whitesmoke;
+  border-style: none;
+  text-transform: lowercase;
+}
+
+div.h2.shared-space {
+  text-align: center;
+}
+
+button.fOyUs_bGBk.fOyUs_fKyb.fOyUs_cuDs.fOyUs_cBHs.fOyUs_eWbJ.fOyUs_fmDy.fOyUs_eeJl.fOyUs_cBtr.fOyUs_fuTR.fOyUs_cnfU.fQfxa_bGBk {
+  color: #E80031;
+  background-color: #343434;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #E80031;
+  border-width: 2px;
+  background: #E80031;
+}
+
+b.event-details__title.recent_feedback_title {
+  color:whitesmoke;
+  text-align: center;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+b.event-details__title.recent_feedback_title:hover {
+  color:whitesmoke;
+  text-align: center;
+  text-transform: lowercase;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+p.event-details__context {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+p.event-details__context:hover {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+a div p {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+  transition-property: opacity;
+  transition-duration: 5s;
+  opacity:10%
+}
+
+a div p:hover {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  opacity:100%
+}
+
+div.event-details {
+  border-style: none;
+  border-color: #434343;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  border-right-width: 0px;
+  margin-right: 0px;
+}
+
+a.more_link {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fOyUs_bGBk.fbyHH_bGBk.fbyHH_vIby {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+footer div a {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.footer-logo.ic-app-footer__logo-link {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.enRcg_bGBk.enRcg_doqw.enRcg_eQnG {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div div div {
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.btn.button-sidebar-wide {
+  background-color: #434343;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.page-toolbar-start {
+  background-color: #343434;
+}
+
+div.header-bar-outer-container {
+  background-color: #343434;
+}
+
+div.header-bar.page-toolbar.as-course-home {
+  background-color: #343434;
+}
+
+div nav ul {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.ellipsible {
+  color: whitesmoke;
+}
+
+i.icon-hamburger {
+  color: whitesmoke;
+}
+
+b.nav-badge {
+  background-color: #E80031;
+  color: whitesmoke;
+}
+
+html {
+  background-color: #343434;
+}
+
+a.jump_to_today_link {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span strong a {
+  background-color: #343434;
+  color: #E80031;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+p span strong {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div div p {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div p img {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.right-of-crumbs {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ig-row.ig-published.student-view {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.ig-title.title.item_link {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.due_date_display.ig-details__item {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.points_possible_display.ig-details__item {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ig-header.header {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.item-group-condensed.context_module.student-view.completed.context_module_hover {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.header-bar {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+button.btn {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.item-group-condensed.context_module.student-view.completed {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+  border-radius: 25px;
+}
+
+div.footer {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.item-group-container {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+header.panel {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div ul li {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+h3.subject {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+#conversation_filter_select {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.yyQPt_cSXm {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.message-count.label {
+  color: whitesmoke;
+  background-color: #E80031;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #E80031;
+  text-align: center;
+}
+
+div.ac-input-box {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+tbody tr td {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.group_course_102613.assignment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.fc-content {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.fc-title.calendar__event--completed {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.group_course_98791.assignment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.group_course_103283.assignment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.group_course_104081.assignment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.icon-plus {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.btn {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.fc-toolbar {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.fc-view-container {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.fc-day-grid-event.fc-h-event.fc-event.fc-start.fc-end.group_course_104180.assignment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-sat {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-fri {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-thu {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-wed {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-tue {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-mon {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.fc-day-header.fc-widget-header.fc-sun {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div div table {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+button.fc-prev-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.fc-icon.fc-icon-right-single-arrow {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+div.ig-row {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.ig-title {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ig-header {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+button.element_toggler.accessible-toggler {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+input.ic-Input {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+select.ic-Input {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.header-bar-left.ic-Form-control.assignment-search {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.Button.print-grades.icon-printer {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+input.qBMHb_cwos.qBMHb_ycrn.qBMHb_EMjX {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.fOyUs_bGBk.fOyUs_desw.bDzpk_bGBk.bDzpk_busO.bDzpk_fZWR.bDzpk_qOas {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.fQfxa_caGd.fQfxa_fKcQ.fQfxa_eCSh.fQfxa_ImeN.undefined.fQfxa_dqAF.fQfxa_bZuE {
+  background-color: #E80031;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+button.Button {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.visible-desktop {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ef-name-col {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.ef-name-col__text {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.media-object.ef-big-icon.FilesystemObjectThumbnail.mimeClass-folder {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div a span {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.icon-mini-arrow-up {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.icon-folder {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.pull-right {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.icon-mini-arrow-right {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ef-item-row {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.name {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+h3.ic-DashboardCard__header-title.ellipsis {
+  background-color: #434343;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.module-sequence-footer-content {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.Button {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+#submission_url {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+textarea.submission_comment_textarea {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+form.submit_assignment_form.ui-tabs-panel.ui-widget-content.ui-corner-bottom {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.external-tool.ui-tabs-anchor {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+a.submit_online_url_option.ui-tabs-anchor {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+th.title {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.tooltip {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+i.icon-reply-2 {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.grade.changed {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+span.fCrpb_bGBk.fCrpb_egrg {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+label.ic-Label {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ic-app-main-content__secondary {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+form.form-horizontal.external-tool-submission {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+textarea.submission_comment {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
+
+div.ui-tabs-panel.ui-widget-content.ui-corner-bottom {
+  background-color: #343434;
+  color: whitesmoke;
+  text-transform: lowercase;
+  text-align: center;
+}
